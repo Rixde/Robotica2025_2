@@ -1,0 +1,68 @@
+[1.042s] Invoking command in '/home/robousr/robotica-2025-2/ROS2_Dev/node_topics_py': PYTHONPATH=/home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/node_topics_py build --build-base /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build install --record /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/install.log --single-version-externally-managed install_data
+[1.348s] running egg_info
+[1.348s] creating ../build/node_topics_py/node_topics_py.egg-info
+[1.348s] writing ../build/node_topics_py/node_topics_py.egg-info/PKG-INFO
+[1.349s] writing dependency_links to ../build/node_topics_py/node_topics_py.egg-info/dependency_links.txt
+[1.350s] writing entry points to ../build/node_topics_py/node_topics_py.egg-info/entry_points.txt
+[1.350s] writing requirements to ../build/node_topics_py/node_topics_py.egg-info/requires.txt
+[1.350s] writing top-level names to ../build/node_topics_py/node_topics_py.egg-info/top_level.txt
+[1.350s] writing manifest file '../build/node_topics_py/node_topics_py.egg-info/SOURCES.txt'
+[1.355s] reading manifest file '../build/node_topics_py/node_topics_py.egg-info/SOURCES.txt'
+[1.356s] adding license file 'LICENSE'
+[1.357s] writing manifest file '../build/node_topics_py/node_topics_py.egg-info/SOURCES.txt'
+[1.357s] running build
+[1.357s] running build_py
+[1.358s] creating /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build
+[1.358s] creating /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build/lib
+[1.358s] creating /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build/lib/node_topics_py
+[1.358s] copying node_topics_py/scara_tray_line_py.py -> /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build/lib/node_topics_py
+[1.358s] copying node_topics_py/sub_counter_py.py -> /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build/lib/node_topics_py
+[1.358s] copying node_topics_py/mobile_control_py.py -> /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build/lib/node_topics_py
+[1.359s] copying node_topics_py/__init__.py -> /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build/lib/node_topics_py
+[1.359s] copying node_topics_py/my_node_py.py -> /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build/lib/node_topics_py
+[1.359s] copying node_topics_py/plantilla copy.py -> /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build/lib/node_topics_py
+[1.359s] copying node_topics_py/scara_test_py.py -> /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build/lib/node_topics_py
+[1.359s] copying node_topics_py/plantilla.py -> /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build/lib/node_topics_py
+[1.360s] copying node_topics_py/pub_py.py -> /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build/lib/node_topics_py
+[1.360s] copying node_topics_py/mobile_test_py.py -> /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build/lib/node_topics_py
+[1.360s] running install
+[1.361s] running install_lib
+[1.362s] creating /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages/node_topics_py
+[1.362s] copying /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build/lib/node_topics_py/scara_tray_line_py.py -> /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages/node_topics_py
+[1.363s] copying /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build/lib/node_topics_py/sub_counter_py.py -> /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages/node_topics_py
+[1.363s] copying /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build/lib/node_topics_py/mobile_control_py.py -> /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages/node_topics_py
+[1.363s] copying /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build/lib/node_topics_py/__init__.py -> /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages/node_topics_py
+[1.363s] copying /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build/lib/node_topics_py/my_node_py.py -> /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages/node_topics_py
+[1.363s] copying /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build/lib/node_topics_py/plantilla copy.py -> /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages/node_topics_py
+[1.363s] copying /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build/lib/node_topics_py/scara_test_py.py -> /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages/node_topics_py
+[1.364s] copying /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build/lib/node_topics_py/plantilla.py -> /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages/node_topics_py
+[1.364s] copying /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build/lib/node_topics_py/pub_py.py -> /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages/node_topics_py
+[1.364s] copying /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build/lib/node_topics_py/mobile_test_py.py -> /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages/node_topics_py
+[1.364s] byte-compiling /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages/node_topics_py/scara_tray_line_py.py to scara_tray_line_py.cpython-310.pyc
+[1.366s] byte-compiling /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages/node_topics_py/sub_counter_py.py to sub_counter_py.cpython-310.pyc
+[1.367s] byte-compiling /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages/node_topics_py/mobile_control_py.py to mobile_control_py.cpython-310.pyc
+[1.367s] byte-compiling /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages/node_topics_py/__init__.py to __init__.cpython-310.pyc
+[1.367s] byte-compiling /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages/node_topics_py/my_node_py.py to my_node_py.cpython-310.pyc
+[1.368s] byte-compiling /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages/node_topics_py/plantilla copy.py to plantilla copy.cpython-310.pyc
+[1.369s] byte-compiling /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages/node_topics_py/scara_test_py.py to scara_test_py.cpython-310.pyc
+[1.370s] byte-compiling /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages/node_topics_py/plantilla.py to plantilla.cpython-310.pyc
+[1.370s] byte-compiling /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages/node_topics_py/pub_py.py to pub_py.cpython-310.pyc
+[1.370s] byte-compiling /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages/node_topics_py/mobile_test_py.py to mobile_test_py.cpython-310.pyc
+[1.371s] running install_data
+[1.371s] creating /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/share/ament_index
+[1.371s] creating /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/share/ament_index/resource_index
+[1.371s] creating /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/share/ament_index/resource_index/packages
+[1.371s] copying resource/node_topics_py -> /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/share/ament_index/resource_index/packages
+[1.371s] copying package.xml -> /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/share/node_topics_py
+[1.371s] running install_egg_info
+[1.374s] Copying ../build/node_topics_py/node_topics_py.egg-info to /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages/node_topics_py-0.0.0-py3.10.egg-info
+[1.375s] running install_scripts
+[1.401s] Installing mobile_controller_py script to /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/node_topics_py
+[1.401s] Installing mobile_test_py script to /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/node_topics_py
+[1.401s] Installing my_node_py script to /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/node_topics_py
+[1.402s] Installing pub_node_py script to /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/node_topics_py
+[1.402s] Installing scara_test_py script to /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/node_topics_py
+[1.402s] Installing scara_tray_line_py script to /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/node_topics_py
+[1.402s] Installing sub_counter_py script to /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/node_topics_py
+[1.402s] writing list of installed files to '/home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/install.log'
+[1.455s] Invoked command in '/home/robousr/robotica-2025-2/ROS2_Dev/node_topics_py' returned '0': PYTHONPATH=/home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/node_topics_py build --build-base /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build install --record /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/install.log --single-version-externally-managed install_data

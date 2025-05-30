@@ -1,0 +1,24 @@
+[1.167s] Invoking command in '/home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py': PYTHONPATH=/home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build --no-deps symlink_data
+[1.560s] running develop
+[1.814s] running egg_info
+[1.814s] writing node_topics_py.egg-info/PKG-INFO
+[1.815s] writing dependency_links to node_topics_py.egg-info/dependency_links.txt
+[1.815s] writing entry points to node_topics_py.egg-info/entry_points.txt
+[1.817s] writing requirements to node_topics_py.egg-info/requires.txt
+[1.817s] writing top-level names to node_topics_py.egg-info/top_level.txt
+[1.819s] reading manifest file 'node_topics_py.egg-info/SOURCES.txt'
+[1.819s] writing manifest file 'node_topics_py.egg-info/SOURCES.txt'
+[1.821s] running build_ext
+[1.821s] Creating /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages/node-topics-py.egg-link (link to .)
+[1.823s] Installing mobile_controller_py script to /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/node_topics_py
+[1.824s] Installing mobile_test_py script to /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/node_topics_py
+[1.824s] Installing my_node_py script to /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/node_topics_py
+[1.824s] Installing pub_node_py script to /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/node_topics_py
+[1.824s] Installing scara_test_py script to /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/node_topics_py
+[1.825s] Installing scara_tray_cubica_py script to /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/node_topics_py
+[1.825s] Installing scara_tray_line_py script to /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/node_topics_py
+[1.825s] Installing sub_counter_py script to /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/node_topics_py
+[1.825s] 
+[1.825s] Installed /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py
+[1.826s] running symlink_data
+[1.866s] Invoked command in '/home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py' returned '0': PYTHONPATH=/home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build --no-deps symlink_data

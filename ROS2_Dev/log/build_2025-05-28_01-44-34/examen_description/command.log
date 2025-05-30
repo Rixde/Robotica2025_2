@@ -1,0 +1,4 @@
+Invoking command in '/home/robousr/robotica-2025-2/ROS2_Dev/build/examen_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/robousr/robotica-2025-2/ROS2_Dev/build/examen_description -- -j8 -l8
+Invoked command in '/home/robousr/robotica-2025-2/ROS2_Dev/build/examen_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/robousr/robotica-2025-2/ROS2_Dev/build/examen_description -- -j8 -l8
+Invoking command in '/home/robousr/robotica-2025-2/ROS2_Dev/build/examen_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/robousr/robotica-2025-2/ROS2_Dev/build/examen_description
+Invoked command in '/home/robousr/robotica-2025-2/ROS2_Dev/build/examen_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/robousr/robotica-2025-2/ROS2_Dev/build/examen_description

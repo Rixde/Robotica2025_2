@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+node_topics_py/__init__.py
+node_topics_py/scara_tray_cubica_py.py
+node_topics_py.egg-info/PKG-INFO
+node_topics_py.egg-info/SOURCES.txt
+node_topics_py.egg-info/dependency_links.txt
+node_topics_py.egg-info/entry_points.txt
+node_topics_py.egg-info/requires.txt
+node_topics_py.egg-info/top_level.txt
+node_topics_py.egg-info/zip-safe
+resource/node_topics_py

@@ -1,0 +1,1 @@
+/home/robousr/robotica-2025-2/ROS2_Dev/examen_bringup/launch/tes2_trayectory_controller_scara.launch.py

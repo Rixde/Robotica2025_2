@@ -1,0 +1,17 @@
+[1.011s] Invoking command in '/home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py': PYTHONPATH=/home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build --no-deps symlink_data
+[1.303s] running develop
+[1.508s] running egg_info
+[1.508s] writing node_topics_py.egg-info/PKG-INFO
+[1.510s] writing dependency_links to node_topics_py.egg-info/dependency_links.txt
+[1.510s] writing entry points to node_topics_py.egg-info/entry_points.txt
+[1.510s] writing requirements to node_topics_py.egg-info/requires.txt
+[1.510s] writing top-level names to node_topics_py.egg-info/top_level.txt
+[1.511s] reading manifest file 'node_topics_py.egg-info/SOURCES.txt'
+[1.512s] writing manifest file 'node_topics_py.egg-info/SOURCES.txt'
+[1.513s] running build_ext
+[1.513s] Creating /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages/node-topics-py.egg-link (link to .)
+[1.514s] Installing scara_tray_cubica_py script to /home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/node_topics_py
+[1.514s] 
+[1.514s] Installed /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py
+[1.514s] running symlink_data
+[1.550s] Invoked command in '/home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py' returned '0': PYTHONPATH=/home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robousr/robotica-2025-2/ROS2_Dev/install/node_topics_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/robousr/robotica-2025-2/ROS2_Dev/build/node_topics_py/build --no-deps symlink_data

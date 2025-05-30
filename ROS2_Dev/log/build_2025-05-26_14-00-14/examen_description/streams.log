@@ -1,0 +1,59 @@
+[0.032s] Invoking command in '/home/robousr/robotica-2025-2/ROS2_Dev/build/examen_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/robousr/robotica-2025-2/ROS2_Dev/examen_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description
+[0.107s] -- The C compiler identification is GNU 11.4.0
+[0.216s] -- The CXX compiler identification is GNU 11.4.0
+[0.233s] -- Detecting C compiler ABI info
+[0.347s] -- Detecting C compiler ABI info - done
+[0.356s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.356s] -- Detecting C compile features
+[0.356s] -- Detecting C compile features - done
+[0.362s] -- Detecting CXX compiler ABI info
+[0.484s] -- Detecting CXX compiler ABI info - done
+[0.491s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.492s] -- Detecting CXX compile features
+[0.494s] -- Detecting CXX compile features - done
+[0.496s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.249s] -- Found Python3: /home/robousr/.pyenv/shims/python3 (found version "3.10.12") found components: Interpreter 
+[1.414s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.624s] -- Configuring done
+[1.630s] -- Generating done
+[1.631s] -- Build files have been written to: /home/robousr/robotica-2025-2/ROS2_Dev/build/examen_description
+[1.639s] Invoked command in '/home/robousr/robotica-2025-2/ROS2_Dev/build/examen_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/robousr/robotica-2025-2/ROS2_Dev/examen_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description
+[1.641s] Invoking command in '/home/robousr/robotica-2025-2/ROS2_Dev/build/examen_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robousr/robotica-2025-2/ROS2_Dev/build/examen_description -- -j2 -l2
+[1.708s] Invoked command in '/home/robousr/robotica-2025-2/ROS2_Dev/build/examen_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robousr/robotica-2025-2/ROS2_Dev/build/examen_description -- -j2 -l2
+[1.722s] Invoking command in '/home/robousr/robotica-2025-2/ROS2_Dev/build/examen_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/robousr/robotica-2025-2/ROS2_Dev/build/examen_description
+[1.734s] -- Install configuration: ""
+[1.734s] -- Execute custom install script
+[1.735s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description//urdf/camara_sensor.xacro
+[1.752s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description//urdf/imu_sensor.xacro
+[1.768s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description//urdf/lidar_sensor.xacro
+[1.783s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description//urdf/position_controller.xacro
+[1.799s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description//urdf/scara.urdf
+[1.816s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description//urdf/scara_basic_position_controller.xacro
+[1.829s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description//urdf/scara_gz_properties.xacro
+[1.847s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description//urdf/scara_position_controller.xacro
+[1.860s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description//urdf/scara_simple_controller.xacro
+[1.875s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description//urdf/scara_trajectory_controller.xacro
+[1.891s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description//urdf/scara_urdf.xacro
+[1.906s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description//urdf/sonar_sensor.xacro
+[1.921s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description//urdf/trajectory_controller.xacro
+[1.935s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description//launch/scara_display.launch.xml
+[1.958s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description//rviz/scara_rviz.rviz
+[1.970s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description//rviz/urdf.rviz
+[1.986s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description//config/scara_position_controller.yaml
+[2.001s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description//config/scara_trajectory_controller.yaml
+[2.017s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/ament_index/resource_index/package_run_dependencies/examen_description
+[2.030s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/ament_index/resource_index/parent_prefix_path/examen_description
+[2.045s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description/environment/ament_prefix_path.sh
+[2.060s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description/environment/ament_prefix_path.dsv
+[2.075s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description/environment/path.sh
+[2.087s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description/environment/path.dsv
+[2.101s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description/local_setup.bash
+[2.122s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description/local_setup.sh
+[2.132s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description/local_setup.zsh
+[2.148s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description/local_setup.dsv
+[2.172s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description/package.dsv
+[2.204s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/ament_index/resource_index/packages/examen_description
+[2.221s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description/cmake/examen_descriptionConfig.cmake
+[2.235s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description/cmake/examen_descriptionConfig-version.cmake
+[2.252s] -- Symlinking: /home/robousr/robotica-2025-2/ROS2_Dev/install/examen_description/share/examen_description/package.xml
+[2.275s] Invoked command in '/home/robousr/robotica-2025-2/ROS2_Dev/build/examen_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/robousr/robotica-2025-2/ROS2_Dev/build/examen_description

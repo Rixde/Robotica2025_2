@@ -1,0 +1,3 @@
+[console_scripts]
+scara_tray_cubica_py = node_topics_py.scara_tray_cubica_py:main
+

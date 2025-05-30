@@ -1,0 +1,1 @@
+/home/robousr/robotica-2025-2/ROS2_Dev/build/examen_description/ament_cmake_environment_hooks/local_setup.bash
